@@ -1,0 +1,118 @@
+======== E X P E R I M E N T ==========
+Experiment  77 : exp_lr =  0.127
+The result of f(x, y) is:  4.531876564025879
+The values of x and y are:  0.73944091796875 0.73944091796875
+======== E X P E R I M E N T ==========
+Experiment  78 : exp_lr =  0.128
+The result of f(x, y) is:  4.599801063537598
+The values of x and y are:  -0.6485671997070312 -0.6485671997070312
+======== E X P E R I M E N T ==========
+Experiment  79 : exp_lr =  0.129
+The result of f(x, y) is:  2.4341392517089844
+The values of x and y are:  -0.22546419501304626 -0.22546419501304626
+======== E X P E R I M E N T ==========
+Experiment  80 : exp_lr =  0.13
+The result of f(x, y) is:  1.240631103515625
+The values of x and y are:  0.1293775737285614 0.1293775737285614
+======== E X P E R I M E N T ==========
+Experiment  81 : exp_lr =  0.131
+The result of f(x, y) is:  3.0452308654785156
+The values of x and y are:  -0.287637859582901 -0.287637859582901
+======== E X P E R I M E N T ==========
+Experiment  82 : exp_lr =  0.132
+The result of f(x, y) is:  0.0978546142578125
+The values of x and y are:  0.019451260566711426 0.019451260566711426
+======== E X P E R I M E N T ==========
+Experiment  83 : exp_lr =  0.133
+The result of f(x, y) is:  4.453352928161621
+The values of x and y are:  0.7660563588142395 0.7660563588142395
+======== E X P E R I M E N T ==========
+Experiment  84 : exp_lr =  0.134
+The result of f(x, y) is:  0.8238945007324219
+The values of x and y are:  0.09631615877151489 0.09631615877151489
+======== E X P E R I M E N T ==========
+Experiment  85 : exp_lr =  0.135
+The result of f(x, y) is:  4.9169816970825195
+The values of x and y are:  1.1410359144210815 1.1410359144210815
+======== E X P E R I M E N T ==========
+Experiment  86 : exp_lr =  0.136
+The result of f(x, y) is:  4.484440803527832
+The values of x and y are:  -0.5765641927719116 -0.5765641927719116
+======== E X P E R I M E N T ==========
+Experiment  87 : exp_lr =  0.137
+The result of f(x, y) is:  4.518959999084473
+The values of x and y are:  0.7445673942565918 0.7445673942565918
+======== E X P E R I M E N T ==========
+Experiment  88 : exp_lr =  0.138
+The result of f(x, y) is:  2.405986785888672
+The values of x and y are:  0.2229306995868683 0.2229306995868683
+======== E X P E R I M E N T ==========
+Experiment  89 : exp_lr =  0.139
+The result of f(x, y) is:  4.573948860168457
+The values of x and y are:  -0.6240188479423523 -0.6240188479423523
+======== E X P E R I M E N T ==========
+Experiment  90 : exp_lr =  0.14
+The result of f(x, y) is:  4.361594200134277
+The values of x and y are:  -0.5319927334785461 -0.5319927334785461
+======== E X P E R I M E N T ==========
+Experiment  91 : exp_lr =  0.14100000000000001
+The result of f(x, y) is:  2.795093536376953
+The values of x and y are:  0.2602611780166626 0.2602611780166626
+======== E X P E R I M E N T ==========
+Experiment  92 : exp_lr =  0.14200000000000002
+The result of f(x, y) is:  4.608246803283691
+The values of x and y are:  0.6796290874481201 0.6796290874481201
+======== E X P E R I M E N T ==========
+Experiment  93 : exp_lr =  0.14300000000000002
+The result of f(x, y) is:  2.2853546142578125
+The values of x and y are:  -0.21231180429458618 -0.21231180429458618
+======== E X P E R I M E N T ==========
+Experiment  94 : exp_lr =  0.14400000000000002
+The result of f(x, y) is:  4.45426082611084
+The values of x and y are:  -0.5643824338912964 -0.5643824338912964
+======== E X P E R I M E N T ==========
+Experiment  95 : exp_lr =  0.14500000000000002
+The result of f(x, y) is:  3.8742218017578125
+The values of x and y are:  -0.4121963083744049 -0.4121963083744049
+======== E X P E R I M E N T ==========
+Experiment  96 : exp_lr =  0.14600000000000002
+The result of f(x, y) is:  2.314929962158203
+The values of x and y are:  0.21488162875175476 0.21488162875175476
+======== E X P E R I M E N T ==========
+Experiment  97 : exp_lr =  0.14700000000000002
+The result of f(x, y) is:  2.896160125732422
+The values of x and y are:  -0.2709411382675171 -0.2709411382675171
+======== E X P E R I M E N T ==========
+Experiment  98 : exp_lr =  0.14800000000000002
+The result of f(x, y) is:  2.926494598388672
+The values of x and y are:  -0.27424293756484985 -0.27424293756484985
+======== E X P E R I M E N T ==========
+Experiment  99 : exp_lr =  0.14900000000000002
+The result of f(x, y) is:  2.317676544189453
+The values of x and y are:  -0.2151210904121399 -0.2151210904121399
+
+================= A D A M (using LR of SGD) ======================
+The result of ackley(x, y) is:  17.29610252380371
+The values of x and y are:  9.986096382141113 9.986096382141113
+The result of beale(x, y) is:  100845488.0
+The values of x and y are:  10.0 10.0
+The result of rosenbrock(x, y) is:  3588.657958984375
+The values of x and y are:  4.626121997833252 15.421448707580566
+
+
+# NOW, do everything properly
+================= S G D ======================
+The result of ackley(x, y) is:  4.0954694747924805
+The values of x and y are:  -1.0695581436157227 -1.0695581436157227
+The result of beale(x, y) is:  0.2462223619222641
+The values of x and y are:  7.693511486053467 0.853422224521637
+The result of rosenbrock(x, y) is:  5.622766971588135
+The values of x and y are:  3.3709876537323 11.366999626159668
+
+================= A D A M ======================
+The result of ackley(x, y) is:  17.293392181396484
+The values of x and y are:  10.000178337097168 10.000178337097168
+The result of beale(x, y) is:  0.0
+The values of x and y are:  3.0 0.5
+The result of rosenbrock(x, y) is:  2.3828835765016265e-05
+The values of x and y are:  0.9956280589103699 0.9910581111907959
